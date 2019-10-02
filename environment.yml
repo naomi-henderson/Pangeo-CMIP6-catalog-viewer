@@ -3,10 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-<<<<<<< HEAD
   - pandas
   - qgrid
-=======
-  - qgrid
-  - pandas
->>>>>>> 71fd8acd7d01ec4829c24520e3cf380c32f359e5
